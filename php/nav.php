@@ -135,7 +135,7 @@
 <!--
 			<li><a href="ayama.html">ಆಯಾಮ</a></li>
 -->
-			<li><a href="#">ಬಹುಮಾದ್ಯಾಮ</a></li>
+			<li><a href="#">ಬಹುಮಾಧ್ಯಮ</a></li>
 
 <!--
 				<ul class="cd-nav-gallery is-hidden">
