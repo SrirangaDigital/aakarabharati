@@ -41,7 +41,8 @@
 <!--
 					   ಇ-ಮೇಲ್<blockquote>info@aakarabharati.in</blockquote></p><br />
 -->
-					   <div id="googleMap" style="width:900px;height:380px;"></div><br /><br /><br />
+					   <!-- <div id="googleMap" style="width:900px;height:380px;"></div><br /><br /><br /> -->
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d848.5363779397553!2d76.68169282916814!3d12.421834809161371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf6972e44db099%3A0xb00f353589fc6ce8!2sebooks!5e1!3m2!1sen!2sin!4v1583571134835!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 			</div>
 	  </section>
 	</main>
