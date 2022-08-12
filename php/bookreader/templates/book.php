@@ -66,12 +66,12 @@
 			$djvurl = "../../../Volumes/djvu/journals/".$journalid."/".$volume."/".$part;
 			$imgurl = "../../../Volumes/jpg/journals/2/".$journalid."/".$volume."/".$part;
 			
-			$djvulist=scandir($djvurl);
+			$djvulist=scandir($imgurl);
 			
 			$cmd='';
 			for($i=0;$i<count($djvulist);$i++)
 			{
-				if($djvulist[$i] != '.' && $djvulist[$i] != '..' && preg_match('/(\.djvu)/' , $djvulist[$i]) && !preg_match('/(index\.djvu)/' , $djvulist[$i]))
+				if($djvulist[$i] != '.' && $djvulist[$i] != '..' && preg_match('/(\.jpg)/' , $djvulist[$i]) && !preg_match('/(index\.jpg)/' , $djvulist[$i]))
 				{
 					$img = preg_split("/\./",$djvulist[$i]);
 					$book["imglist"][$i]= $img[0].".jpg";
