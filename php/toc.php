@@ -75,6 +75,7 @@
 			$page = preg_split('/-/', $row['page']);
 			$page_start = $page[0];
 			echo '<div class="article">';
+			echo ($row['info'] != '') ? '<div class="gapBelowSmall"><span class="aFeature clr2">' . $row['info'] . '</span></div>' : '';
 			echo ($row['feature'] != '') ? '<div class="gapBelowSmall"><span class="aFeature clr2"><a href="feat.php?journalid=' . $journalID . '&amp;volume=' . $row['volume'] . '&amp;part='.$row['part'].'&amp;isVolumePart='. $isVolumePart .'&amp;feature=' . $row['feature'] .'">' . $row['feature'] . '</a></span></div>' : '';
 			
 			//~ Djvu Link
