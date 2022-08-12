@@ -88,6 +88,7 @@
 							<li><a href="../005/index.php">ಅರಿವು ಬರಹ</a></li>
 							<li><a href="../006/index.php">ರಂಗಭೂಮಿ</a></li>
 							<li><a href="../010/index.php">ಸಂಕುಲ</a></li>
+							<li><a href="../012/index.php">ಕಂದ</a></li>
 							<li><a href="#">ಗ್ರಂಥಲೋಕ</a></li>
 							<li><a href="#">ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</a></li>
 							<li><a class="right" href="../index.html">...ಮುಂದೆ</a></li>
