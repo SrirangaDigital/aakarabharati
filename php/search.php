@@ -38,7 +38,8 @@
 								<input type="checkbox" name="check[]" value="004" id="check_pp" checked/>&nbsp;<label for="check_pp">ಪುಸ್ತಕ ಪ್ರಪಂಚ</label><br />
 								<input type="checkbox" name="check[]" value="005" id="check_ab" checked/>&nbsp;<label for="check_ab">ಅರಿವು ಬರಹ</label><br />
 								<input type="checkbox" name="check[]" value="006" id="check_rb" checked/>&nbsp;<label for="check_rb">ರಂಗಭೂಮಿ</label><br />
-								<input type="checkbox" name="check[]" value="010" id="check_rb" checked/>&nbsp;<label for="check_rb">ಸಂಕುಲ</label>
+								<input type="checkbox" name="check[]" value="010" id="check_rb" checked/>&nbsp;<label for="check_rb">ಸಂಕುಲ</label><br />
+								<input type="checkbox" name="check[]" value="012" id="check_rb" checked/>&nbsp;<label for="check_rb">ಕಂದ</label>
 							</td>
 						</tr>
 					</table>
