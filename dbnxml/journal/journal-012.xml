@@ -2945,6 +2945,48 @@
 		</part>
 	</volume>
 	<volume vnum="015">
+		<part pnum="01" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ-೮೬ : ಸೊಹ್ರಾಬ್ - ರುಸ್ತುಂ">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0000c-0000d</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature/>
+				<page>0000e-0000f</page>
+				<allauthors>
+				<author>ಸುಶೀಲಾಬಾಯಿ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೧</title>
+				<feature>ಶಿವಾಜಿ ಆಫ್ ಜಲ್ ರ್ಖಾ</feature>
+				<page>0001-0008</page>
+				<allauthors/>
+				</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೨</title>
+				<feature>ಶಿವಾಜಿ ಆಫ್ ಜಲ್ ರ್ಖಾ</feature>
+				<page>0009-0016</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೩</title>
+				<feature>ಶಿವಾಜಿ ಆಫ್ ಜಲ್ ರ್ಖಾ</feature>
+				<page>0017-0027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೪</title>
+				<feature>ಶಿವಾಜಿ ಆಫ್ ಜಲ್ ರ್ಖಾ</feature>
+				<page>0028-0039</page>
+				<allauthors/>
+			</entry>
+		</part>
 		<part pnum="02" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ-೧೦೩ : ಪುಣ್ಯ ಪುರುಷ : ಪುರಂದರದಾಸರು">
 			<entry>
 				<title>ಮೊದಲ ಮಾತು</title>
