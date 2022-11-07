@@ -355,6 +355,664 @@
 		</part>
 	</volume>
 	<volume vnum="008">
+		<part pnum="01" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೨೨ : ಬಿಟ್ರೆಸಿಕ್ಕ">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0001-0002</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪೀಠಿಕೆ</title>
+				<feature/>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಬಿಟ್ರೆಸಿಕ್ಕ</title>
+				<feature/>
+				<page>0005-0028</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="" year="" info="ಕಂದನ ಕಾವ್ಯಮಾಲೆ ೨೩ : ಮೃಗ ಪಕ್ಷಿಗಳು">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0001-0002</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪೀಠಿಕೆ</title>
+				<feature/>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಸಿಂಹ</title>
+				<feature/>
+				<page>0005-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಹುಲಿ</title>
+				<feature/>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಚಿರತೆ</title>
+				<feature/>
+				<page>0008-0008</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಕರಡಿ</title>
+				<feature/>
+				<page>0009-0010</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಜಿರಾಫೆ</title>
+				<feature/>
+				<page>0011-0011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಒಂಟೆ</title>
+				<feature/>
+				<page>0012-0012</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಕಾಂಗರು</title>
+				<feature/>
+				<page>0013-0013</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಆನೆ</title>
+				<feature/>
+				<page>0014-0014</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೀರ್ಗುದುರೆ</title>
+				<feature/>
+				<page>0015-0015</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಕೋತಿ</title>
+				<feature/>
+				<page>0016-0016</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನಾಗರಹಾವು</title>
+				<feature/>
+				<page>0017-0017</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಹೆಬ್ಬಾವು</title>
+				<feature/>
+				<page>0018-0018</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಮೊಸಳೆ</title>
+				<feature/>
+				<page>0019-0019</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಮೊಲ</title>
+				<feature/>
+				<page>0020-0020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನವಿಲು</title>
+				<feature/>
+				<page>0021-0021</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಪಾರಿವಾಳ</title>
+				<feature/>
+				<page>0022-0022</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಗಿಣಿ</title>
+				<feature/>
+				<page>0023-0023</page>
+				<allauthors/>
+			</entry>
+		</part>
+        <part pnum="03" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೨೪ : ಅಕ್ಷರಕಲಿಕೆ">
+            <entry>
+                <title>ಮೊದಲ ಮಾತು</title>
+                <feature/>
+                <page>0001-0002</page>
+                <allauthors>
+                <author>ಶಾಮರಾಯ ತ. ಸು.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಪೀಠಿಕೆ</title>
+                <feature>ಓದು ಬರಹ</feature>
+                <page>0003-0004</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ರಥ</title>
+                <feature>ಓದು</feature>
+                <page>0005-0005</page>
+                <allauthors/>
+            </entry>
+            <entry>
+            <title>ಸರ</title>
+                <feature>ಓದು</feature>
+                <page>0006-0006</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮರ</title>
+                <feature>ಓದು</feature>
+                <page>0007-0007</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಚರಕ</title>
+                <feature>ಓದು</feature>
+                <page>0008-0008</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಏತ</title>
+                <feature>ಓದು</feature>
+                <page>0009-0009</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಬಸವ</title>
+                <feature>ಓದು</feature>
+                <page>0010-0010</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಶಂಖ</title>
+                <feature>ಓದು</feature>
+                <page>0011-0011</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪಂಜರ</title>
+                <feature>ಓದು</feature>
+                <page>0012-0012</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪಟ</title>
+                <feature>ಓದು</feature>
+                <page>0013-0013</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಮಲ</title>
+                <feature>ಓದು</feature>
+                <page>0014-0014</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪದಕ</title>
+                <feature>ಓದು</feature>
+                <page>0015-0015</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಆಲ</title>
+                <feature>ಓದು</feature>
+                <page>0016-0016</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಅಕ್ಷರ ಕಲಿಕೆ</title>
+                <feature>ಓದು</feature>
+                <page>0017-0017</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಹರ</title>
+                <feature>ಓದು</feature>
+                <page>0018-0018</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಈರ</title>
+                <feature>ಓದು</feature>
+                <page>0019-0019</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಗರ</title>
+                <feature>ಓದು</feature>
+                <page>0020-0020</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕದ</title>
+                <feature>ಓದು</feature>
+                <page>0021-0021</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ರಥ</title>
+                <feature>ಓದು</feature>
+                <page>0022-0022</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಢಮ ಢಮ</title>
+                <feature>ಓದು</feature>
+                <page>0023-0023</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಲಂಗ</title>
+                <feature>ಓದು</feature>
+                <page>0024-0024</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಓದು</title>
+                <feature/>
+                <page>0025-0026</page>
+                <allauthors/>
+            </entry>
+        </part>
+        <part pnum="04" month="" year="" info="ಕಂದನ ಕಾವ್ಯಮಾಲೆ - ೨೫ : ರಾಜಕುಮಾರರ ಕಥೆಗಳು">
+            <entry>
+                <title>ಮೊದಲ ಮಾತು</title>
+                <feature/>
+                <page>0001-0002</page>
+                <allauthors>
+                <author>ಶಾಮರಾಯ ತ. ಸು.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಮೂವರು ರಾಜಪುತ್ರರು</title>
+                <feature/>
+                <page>0003-0007</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮಾಯದ ಕುದುರೆ</title>
+                <feature/>
+                <page>0008-0010</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮೌನ</title>
+                <feature/>
+                <page>0011-0013</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮದಲಾಸೆ</title>
+                <feature/>
+                <page>0014-0018</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ರಾಜಕುಮಾರ</title>
+                <feature/>
+                <page>0019-0024</page>
+                <allauthors/>
+            </entry>
+        </part>
+        <part pnum="05" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೨೬ : ಜಾತಕ ಕಥೆಗಳು">
+            <entry>
+                <title>ಮೊದಲ ಮಾತು</title>
+                <feature/>
+                <page>0001-0002</page>
+                <allauthors>
+                <author>ಶಾಮರಾಯ ತ. ಸು.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಪೀಠಿಕೆ</title>
+                <feature/>
+                <page>0003-0003</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮೊಸಳೆ ಕಥೆ (ಕಥೆ ಎರಡು)</title>
+                <feature/>
+                <page>0004a-0004a</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಆನೆ ಕಥೆ (ಕಥೆ ಐದು)</title>
+                <feature/>
+                <page>0004b-0004b</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಒಂದು</title>
+                <feature/>
+                <page>0005-0005</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಎರಡು</title>
+                <feature/>
+                <page>0005-0006</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಮೂರು</title>
+                <feature/>
+                <page>0006-0007</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ನಾಲ್ಕು</title>
+                <feature/>
+                <page>0007-0007</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಐದು</title>
+                <feature/>
+                <page>0008-0009</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಆರು</title>
+                <feature/>
+                <page>0009-0010</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಏಳು</title>
+                <feature/>
+                <page>0010-0011</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಎಂಟು</title>
+                <feature/>
+                <page>0011-0012</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಒಂಭತ್ತು</title>
+                <feature/>
+                <page>0012-0012</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹತ್ತು</title>
+                <feature/>
+                <page>0013-0014</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹನ್ನೊಂದು</title>
+                <feature/>
+                <page>0014-0014</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹನ್ನೆರಡು</title>
+                <feature/>
+                <page>0015-0015</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹದಿಮೂರು</title>
+                <feature/>
+                <page>0015-0016</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹದಿನಾಲ್ಕು</title>
+                <feature/>
+                <page>0016-0017</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹದಿನೈದು</title>
+                <feature/>
+                <page>0017-0018</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹದಿನಾರು</title>
+                <feature/>
+                <page>0018-0019</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹದಿನೇಳು</title>
+                <feature/>
+                <page>0019-0020</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹದಿನೆಂಟು</title>
+                <feature/>
+                <page>0020-0021</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಹತ್ತೊಂಭತ್ತು</title>
+                <feature/>
+                <page>0021-0022</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಥೆ ಇಪ್ಪತ್ತು</title>
+                <feature/>
+                <page>0022-0024</page>
+                <allauthors/>
+            </entry>
+        </part>
+        <part pnum="06" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೨೭ : ಮೂವರು ಸಹೋದರಿಯರು">
+            <entry>
+                <title>ಮೊದಲ ಮಾತು</title>
+                <feature/>
+                <page>0001-0002</page>
+                <allauthors>
+                <author>ಶಾಮರಾಯ ತ. ಸು.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಪಿಠಿಕೆ</title>
+                <feature/>
+                <page>0003-0004</page>
+                <allauthors>
+                <author>ನಾಗೇಶರಾವ್ ಎನ್.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಮೂವರು ಸಹೋದರಿಯರು</title>
+                <feature/>
+                <page>0005-0024</page>
+                <allauthors/>
+            </entry>
+        </part>
+        <part pnum="07" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೨೮ : ಅಲ್ಲಾವುದ್ಧೀನ್ ಮತ್ತು ಅದ್ಭುತ ದೀಪ">
+            <entry>
+                <title>ಮೊದಲ ಮಾತು</title>
+                <feature/>
+                <page>0001-0002</page>
+                <allauthors>
+                <author>ಶಾಮರಾಯ ತ. ಸು.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಪೀಠಿಕೆ</title>
+                <feature/>
+                <page>0003-0004</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಅದ್ಭುತ ದೀಪ</title>
+                <feature/>
+                <page>0005-0024</page>
+                <allauthors/>
+            </entry>
+        </part>
+        <part pnum="08" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೨೯ : ಮಿತ್ರಭೇದ">
+            <entry>
+                <title>ಮೊದಲ ಮಾತು</title>
+                <feature/>
+                <page>0000c-0000d</page>
+                <allauthors>
+                <author>ಶಾಮರಾಯ ತ. ಸು.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಪೀಠಿಕೆ</title>
+                <feature/>
+                <page>0000e-0000f</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪಂಚತಂತ್ರದ ಹುಟ್ಟು</title>
+                <feature/>
+                <page>0001-0004</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪಂಚತಂತ್ರ - ಒಂದನೆಯಭಾಗ</title>
+                <feature/>
+                <page>0005-0011</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮಿತ್ರಭೇದ ಎಂಬ ಮೊದಲ ತಂತ್ರ</title>
+                <feature/>
+                <page>0005-0005</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಸಂಜೀವಕ ಎಂಬ ಎತ್ತಿನ ವಿಚಾರ</title>
+                <feature/>
+                <page>0006-0007</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪಿಂಗಳಕ ಎಂಬ ಸಿಂಹದ ವಿಚಾರ</title>
+                <feature/>
+                <page>0007-0008</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕರಟಕ ದಮನಕರ ಮಂತ್ರಾಲೋಚನೆ</title>
+                <feature/>
+                <page>0008-0008</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕೀಲು ಕಿತ್ತ ಕೋತಿಯ ಕಥೆ</title>
+                <feature/>
+                <page>0009-0010</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ದಮನಕರ ಪಿಂಗಳಕರ ಭೇಟಿ</title>
+                <feature/>
+                <page>0010-0011</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>೨. ನರಿಯೂ ರಣಭೇರಿಯೂ</title>
+                <feature/>
+                <page>0011-0013</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ದಮನಕ ಸಂಜೀವಕರ ಭೇಟಿ</title>
+                <feature/>
+                <page>0013-0014</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಸಂಜೀವಕ ಪಿಂಗಳಕರ ಗೆಳೆತನ</title>
+                <feature/>
+                <page>0015-0016</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕರಟಕ ದಮನಕರ ಪುನರಾಲೋಚನೆ</title>
+                <feature/>
+                <page>0016-0016</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕೃಷ್ಣಸರ್ಪವನ್ನು ಕೊಲ್ಲಿಸಿದ ಕಾಗೆಯ ಕಥೆ</title>
+                <feature/>
+                <page>0017-0018</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಸಿಂಹವನ್ನು ಕೊಂದ ಮೊಲದ ಕಥೆ</title>
+                <feature/>
+                <page>0018-0020</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ದಮನಕನು ಪಿಂಗಳಕನ ಮನಸ್ಸನ್ನು ಕೆಡಿಸಿದ್ದು</title>
+                <feature/>
+                <page>0020-0020</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ದಮನಕನು ಸಂಜೀವಕನ ಮನಸನ್ನು ಕೆಡಿಸಿದುದು</title>
+                <feature/>
+                <page>0021-0022</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಸಮುದ್ರವನ್ನು ಸೋಲಿಸಿದ ಟಿಟ್ಟಿಭನ ಕಥೆ</title>
+                <feature/>
+                <page>0022-0023</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಬುದ್ಧಿಯ ಮಾತನ್ನು ಕೇಳದೆ ಕೆಟ್ಟ ಆಮೆಯ ಕಥೆ</title>
+                <feature/>
+                <page>0023-0025</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಸಂಜೀವಕ ಮತ್ತು ಪಿಂಗಳಕರ ಕಾಳಗ</title>
+                <feature/>
+                <page>0026-0027</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>೮. ಧರ್ಮಬುದ್ಧಿಗೆ ಮೋಸಮಾಡಲೆತ್ನಿಸಿದ ದುಷ್ಟಬುದ್ಧಿಯ ಕಥೆ</title>
+                <feature/>
+                <page>0027-0029</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ವಿವೇಕಿಯಾದ ಕಳ್ಳನ ಕಥೆ</title>
+                <feature/>
+                <page>0029-0031</page>
+                <allauthors/>
+            </entry>
+        </part>
 		<part pnum="09" month="" year="" info="">
 			<entry>
 				<title>ಮೊದಲ ಮಾತು</title>
@@ -383,8 +1041,513 @@
 				<allauthors/>
 			</entry>
 		</part>
+        <part pnum="10" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೩೧ : ವಿಶ್ವಾಸ ಮತ್ತು ಪರೀಕ್ಷೆ">
+            <entry>
+                <title>ಮೊದಲ ಮಾತು</title>
+                <feature/>
+                <page>0000c-0000d</page>
+                <allauthors>
+                <author>ಶಾಮರಾಯ ತ. ಸು.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಪೀಠಿಕೆ</title>
+                <feature/>
+                <page>0000e-0000f</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ವಿಶ್ವಾಸ ಎಂಬ ನಾಲ್ಕನೆಯ ತಂತ್ರ</title>
+                <feature>ಪಂಚತಂತ್ರ ನಾಲ್ಕನೆಯಭಾಗ</feature>
+                <page>0001-0003</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪಕ್ಷಿಗಳು ರಾಜನನ್ನು ಆರಿಸುದುದು!</title>
+                <feature/>
+                <page>0004-0005</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಆನೆಯನ್ನು ಮರಳು ಮಾಡಿದ ಮೊಲದ ಕಥೆ</title>
+                <feature/>
+                <page>0005-0007</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಠಕ್ಕರಿಂದ ಮೋಸಹೋದ ಬ್ರಾಹ್ಮಣದ ಕಥೆ</title>
+                <feature/>
+                <page>0007-0009</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಬ್ರಾಹ್ಮಣ ಮತ್ತು ಸರ್ಪದ ಕಥೆ</title>
+                <feature/>
+                <page>0010-0011</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಶರಣಾಗತನಿಗೆ ಪ್ರಾಣಕೊಟ್ಟ ಪಾರಿವಾಳದ ಕಥೆ</title>
+                <feature/>
+                <page>0011-0012</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಳ್ಳ ಬ್ರಹ್ಮರಾಕ್ಷಸರ ಜಗಳದಿಂದ ಬದುಕಿಕೊಂಡ ಬ್ರಾಹ್ಮಣನ ಕಥೆ</title>
+                <feature/>
+                <page>0013-0014</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಋಷಿಯ ವರದಿಂದ ಕನ್ಯೆಯಾದ ಇಲಿಯ ಕಥೆ</title>
+                <feature/>
+                <page>0014-0016</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮಾತನಾಡಿದ ಗವಿಯ ಕಥೆ</title>
+                <feature/>
+                <page>0017-0018</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪಂಚತಂತ್ರ ಐದನೆಯ ಭಾಗ</title>
+                <feature/>
+                <page>0019-0019</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕ್ಷೌರಕನ ದುರದೃಷ್ಟ</title>
+                <feature/>
+                <page>0020-0021</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ವಿಚಾರಮಾಡದೆ ಮುಂಗುಸಿಯನ್ನು ಕೊಂದ ಗೃಹಿಣಿಯ ಕಥೆ</title>
+                <feature/>
+                <page>0022-0023</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ದುರಾಸೆಪಟ್ಟು ತಲೆಯಮೇಲೆ ಚಕ್ರವನ್ನು ಹೊತ್ತ ಬ್ರಾಹ್ಮಣನ ಕಥೆ</title>
+                <feature/>
+                <page>0023-0025</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಸಿಂಹವನ್ನು ನಿರ್ಮಾಣಮಾಡಿದ ಪಂಡಿತರ ಕಥೆ</title>
+                <feature/>
+                <page>0025-0026</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಸ್ವಪ್ರತಿಷ್ಠೆಯಿಂದ ಕಷ್ಟಕ್ಕೆ ಗುರಿಯಾದ ಕತ್ತೆಯ ಕಥೆ</title>
+                <feature/>
+                <page>0026-0028</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ತಿರುಕನ ಕನಸಿನ ಕಥೆ</title>
+                <feature/>
+                <page>0028-0029</page>
+                <allauthors/>
+            </entry>
+        </part>
+        <part pnum="11" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೩೨ : ಹೊರದೇಶದ ಕಥೆಗಳು">
+            <entry>
+                <title>ಮೊದಲ ಮಾತು</title>
+                <feature/>
+                <page>0001-0002</page>
+                <allauthors>
+                <author>ಶಾಮರಾಯ ತ. ಸು.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಪೀಠಿಕೆ</title>
+                <feature/>
+                <page>0003-0004</page>
+                <allauthors>
+                <author>ಸುಶೀಲಾಬಾಯಿ ಎನ್.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಸಿಂಡರೆಲ್ಲಾ</title>
+                <feature/>
+                <page>0005-0006</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಜಾಕ್ ಮತ್ತು ಅವರೆ ಬಳ್ಳಿ</title>
+                <feature/>
+                <page>0007-0009</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮೂರು ಕರಡಿಗಳು</title>
+                <feature/>
+                <page>0010-0011</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಬೂಟ್ಸು ಧರಿಸಿದ ಚೀಲಿ</title>
+                <feature/>
+                <page>0012-0013</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮೂರು ಹಂದಿಗಳು</title>
+                <feature/>
+                <page>0014-0015</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಹಿಮಶ್ವೇತೆ</title>
+                <feature/>
+                <page>0016-0018</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕೆಂಪು ಕುಂಚಿಗೆ ಹುಡುಗಿ</title>
+                <feature/>
+                <page>0019-0020</page>
+                <allauthors/>
+            </entry>
+        </part>
+        <part pnum="12" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೩೩ : ಮಕ್ಕಳ ಪದ್ಯಗಳು">
+            <entry>
+                <title>ಮೊದಲ ಮಾತು</title>
+                <feature/>
+                <page>0000c-0000d</page>
+                <allauthors>
+                <author>ಶಾಮರಾಯ ತ. ಸು.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಸಂಪಾದಕೀಯ</title>
+                <feature/>
+                <page>0000e-0000f</page>
+                <allauthors>
+                <author>ಸುಶೀಲಾಬಾಯಿ ಎನ್.</author>
+                </allauthors>
+            </entry>
+            <entry>
+                <title>ಮಕ್ಕಳ ಪದ್ಯಗಳು</title>
+                <feature/>
+                <page>0001-0001</page>
+                <allauthors/>
+                </entry>
+                <entry>
+                <title>ಶಾಲೆಯ ಕರೆ</title>
+                <feature/>
+                <page>0002-0002</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಬಾ ಬಾ ಕಂದ</title>
+                <feature/>
+                <page>0002-0002</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಗಣಪನ ಸ್ತುತಿ</title>
+                <feature/>
+                <page>0003-0003</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕಂದನ ಕರೆ</title>
+                <feature/>
+                <page>0004-0004</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ರೈಲಾಟ</title>
+                <feature/>
+                <page>0005-0005</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಎಣಿಕೆ</title>
+                <feature/>
+                <page>0006-0006</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪಟದ ಆಟ</title>
+                <feature/>
+                <page>0007-0007</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಚಿಟ್ಟೆ</title>
+                <feature/>
+                <page>0008-0008</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಟಪ್ಪಾಲಣ್ಣ</title>
+                <feature/>
+                <page>0009-0009</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕುದುರೆ</title>
+                <feature/>
+                <page>0010-0010</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಋತುಗಳು</title>
+                <feature/>
+                <page>0011-0011</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಯುಗಾದಿ</title>
+                <feature/>
+                <page>0012-0012</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಗಣಪತಿ ಹಬ್ಬ</title>
+                <feature/>
+                <page>0013-0013</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಮಳೆ</title>
+                <feature/>
+                <page>0014-0014</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ರೈತ</title>
+                <feature/>
+                <page>0015-0015</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ದಸರ</title>
+                <feature/>
+                <page>0016-0016</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಪಟಾಕಿ</title>
+                <feature/>
+                <page>0017-0017</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ದೀಪಾವಳಿ</title>
+                <feature/>
+                <page>0018-0018</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಕೃಷ್ಣಾಷ್ಟಮಿ</title>
+                <feature/>
+                <page>0019-0019</page>
+                <allauthors/>
+            </entry>
+            <entry>
+                <title>ಗುಬ್ಬಿಮರಿ</title>
+                <feature/>
+                <page>0020-0020</page>
+                <allauthors/>
+            </entry>
+        </part>
 	</volume>
 	<volume vnum="009">
+		<part pnum="01" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ - ೩೪ : ಮೃಗರಾಜ">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0001-0002</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪೀಠಿಕೆ</title>
+				<feature/>
+				<page>0003-0003</page>
+				<allauthors>
+				<author>ಸುಶೀಲಾಬಾಯಿ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೃಗರಾಜ</title>
+				<feature/>
+				<page>0005-0012</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಕತ್ತೆಯ ಕಾವಲು</title>
+				<feature/>
+				<page>0013-0014</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಕತ್ತೆಯ ಸೋಗು</title>
+				<feature/>
+				<page>0014-0017</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಕತ್ತೆಯ ಕೊಂಡಾಟ</title>
+				<feature/>
+				<page>0017-0019</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಚುರುಕು ಮೊಲ</title>
+				<feature/>
+				<page>0019-0021</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಮೊಲದ ಗರ್ವ ಭಂಗ</title>
+				<feature/>
+				<page>0021-0023</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಮೊಲದ ಪ್ರತೀಕಾರ</title>
+				<feature/>
+				<page>0024-0025</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ - ೩೫ : ಅಪಾಯ ನಿವಾರಣೆಯ ಉಪಾಯಗಳು">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0001-0002</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪೀಠಿಕೆ</title>
+				<feature/>
+				<page>0003-0004</page>
+				<allauthors>
+				<author>ಸುಶೀಲಾಬಾಯಿ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪರಿವಿಡಿ</title>
+				<feature/>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಎಚ್ಚರಿಕೆ</title>
+				<feature/>
+				<page>0006-0016</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಕಾರು ನಡೆಸುವವರು</title>
+				<feature/>
+				<page>0017-0017</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಮಕ್ಕಳಿಗೆ ಆಟಕ್ಕೆ</title>
+				<feature/>
+				<page>0018-0020</page>
+				<allauthors/>
+			</entry>
+		</part>
+		
+		<part pnum="02a" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ - ೩೬">
+			<entry>
+				<title>ನೆಹರು ಚಾಚಾ</title>
+				<feature/>
+				<page>0000c-0000e</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0001-0002</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜವಾಹರ್‌ಲಾಲ್ ನೆಹರು</title>
+				<feature/>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧. ಬಾಲ್ಯ</title>
+				<feature/>
+				<page>0005-0007</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨. ವಿದ್ಯಾಭ್ಯಾಸ</title>
+				<feature/>
+				<page>0008-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩. ವಕೀಲಿ ವೃತ್ತಿ</title>
+				<feature/>
+				<page>0010-0011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೪. ರಾಜಕೀಯದಲ್ಲಿ ಪ್ರವೇಶ</title>
+				<feature/>
+				<page>0012-0015</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ನೆಹರು ಚಾಚಾ</title>
+				<feature/>
+				<page>0016-0016</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ - ೩೭">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0015-0016</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>೫. ಭಾರತದ ಭವಿಷ್ಯ ಕನಸು</title>
+				<feature/>
+				<page>0017-0020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೬. ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ</title>
+				<feature/>
+				<page>0021-0025</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೮. ಸೆರೆಮನೆಯ ವಿಶೇಷ ಅನುಭವಗಳು</title>
+				<feature/>
+				<page>0026-0031</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೯. ಆತ್ಮಾರ್ಪಣೆ</title>
+				<feature/>
+				<page>0032-0036</page>
+				<allauthors/>
+			</entry>
+		</part>
 		<part pnum="05" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ-೩೮ : ಯವನಯಾಮಿನೀ ಕಥೆಗಳು">
 			<entry>
 				<title>ಮೊದಲ ಮಾತು</title>
@@ -1197,6 +2360,64 @@
 				<allauthors/>
 			</entry>
 		</part>
+		<part pnum="06" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ - ೫೯ : ಮಕ್ಕಳ ನಾಟಕಗಳು">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0000c-0000d</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಯದ ಉಡುಪು</title>
+				<feature/>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೧.</title>
+				<feature>ರಾಜನ ಕೊಠಡಿ</feature>
+				<page>0002-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೨.</title>
+				<feature>ರಾಜನ ಕೊಠಡಿ</feature>
+				<page>0006-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೩.</title>
+				<feature>ರಾಜನ ಕೊಠಡಿ</feature>
+				<page>0009-0012</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೪.</title>
+				<feature>ರಾಜನ ಕೊಠಡಿ</feature>
+				<page>0013-0016</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೫.</title>
+				<feature>ರಾಜನ ಕೊಠಡಿ</feature>
+				<page>0017-0020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೬.</title>
+				<feature>ರಾಜನ ಸಭೆ</feature>
+				<page>0020-0024</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಸೋಮಾರಿ ರಂಗ</title>
+				<feature/>
+				<page>0025-0030</page>
+				<allauthors/>
+			</entry>
+		</part>
 		<part pnum="08" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ-೬೧ : ಸಚಿತ್ರ ಮಕ್ಕಳ ರಾಮಾಯಣ ಭಾಗ-೨">
 			<entry>
 				<title>ಮೊದಲ ಮಾತು</title>
@@ -1653,6 +2874,240 @@
 		</part>
 	</volume>
 	<volume vnum="012">
+		<part pnum="01" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ-೬೬ : ಗಾಂಧೀಜಿ ಭಾಗ-೧">
+			<entry>
+				<title>೧. ತಂದೆ ತಾಯಿ</title>
+				<feature/>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨. ರಾಮನಾಮದ ಮಹಿಮೆ</title>
+				<feature/>
+				<page>0002-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩. ಶಾಲೆಯ ದಿನಗಳು</title>
+				<feature/>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೪. ಮಾತೃಭಕ್ತಿ</title>
+				<feature/>
+				<page>0005-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೫. ಪ್ರಾಯಶ್ಚಿತ್ತ</title>
+				<feature/>
+				<page>0006-0007</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೬. ಅನ್ಯಮತ ಸಹನೆ</title>
+				<feature/>
+				<page>0007-0008</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೭. ಮೂರು ಪ್ರತಿಜ್ಞೆಗಳು</title>
+				<feature/>
+				<page>0008-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೮. ಸಭ್ಯತೆಯ ಪ್ರಯೋಗಗಳು</title>
+				<feature/>
+				<page>0009-0011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೯. ಸತ್ಯದ ಸಿದ್ಧೌಷಧ</title>
+				<feature/>
+				<page>0011-0012</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧೦. ರುಮಾಲಿನ ಗೌರವ</title>
+				<feature/>
+				<page>0012-0014</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧೧. ಅಸ್ಪೃಶ್ಯತಾ ಜಾಡ್ಯ</title>
+				<feature/>
+				<page>0014-0016</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧೨. ಮತ್ತೊಂದು ಕಹಿ ಅನುಭವ</title>
+				<feature/>
+				<page>0016-0018</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧೩. ಮೊಕದ್ದಮೆಯ ತೀರ್ಪು</title>
+				<feature/>
+				<page>0018-0020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧೪. ಸಾರ್ವಜನಿಕ ಸೇವೆ</title>
+				<feature/>
+				<page>0020-0022</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧೫. ವಿಚಿತ್ರ ವಕೀಲಿ</title>
+				<feature/>
+				<page>0022-0024</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧೬. ಹಸುರು ಪುಸ್ತಕ</title>
+				<feature/>
+				<page>0024-0027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧೭. ಸುಂಟರಗಾಳಿ</title>
+				<feature/>
+				<page>0027-0031</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೧೮. ಸೇವಾಕಾರ್ಯ</title>
+				<feature/>
+				<page>0031-0032</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ-೬೭ : ಗಾಂಧೀಜಿ ಭಾಗ-೨">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0000a-0000b</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>೧೯. ಸರಳ ಜೀವನ</title>
+				<feature/>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨೦. ದೈವ ಪರೀಕ್ಷೆ</title>
+				<feature/>
+				<page>0003-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨೧. ಕಠಿಣ ವ್ರತ</title>
+				<feature/>
+				<page>0005-0006</page>
+				<allauthors/>
+				</entry>
+				<entry>
+				<title>೨೨. ವಿಚಿತ್ರ ವಕೀಲಿ</title>
+				<feature/>
+				<page>0006-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨೩. ಫೀನಿಕ್ಸ್ ವಸತಿ</title>
+				<feature/>
+				<page>0009-0011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨೪. ಬೀಳುಕೊಡುಗೆಯ ಕಾಣಿಕೆಗಳು</title>
+				<feature/>
+				<page>0011-0013</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨೫. ಸತ್ಯಾಗ್ರಹದ ಹುಟ್ಟು</title>
+				<feature/>
+				<page>0013-0016</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨೬. ಕೊಡೊಕ್ಕಲು</title>
+				<feature/>
+				<page>0016-0017</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨೭. ಕ್ಷಮೆ</title>
+				<feature/>
+				<page>0018-0020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨೮. ದಹನ ಸಮಾರಂಭ</title>
+				<feature/>
+				<page>0020-0021</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨೯. ಮಹಾಯಾತ್ರೆ</title>
+				<feature/>
+				<page>0021-0024</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩೦. ದೈವ ಸಹಾಯ</title>
+				<feature/>
+				<page>0025-0026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩೧. ಬಿಚ್ಚು ಮಾತುಗಳು</title>
+				<feature/>
+				<page>0026-0029</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩೨. ಘೋರ ಪದ್ಧತಿ</title>
+				<feature/>
+				<page>0029-0033</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩೩. ದರಿದ್ರ ನಾರಾಯಣನ ಸೇವೆ</title>
+				<feature/>
+				<page>0033-0035</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩೪. ಉಪವಾಸದ ಮಹಿಮೆ</title>
+				<feature/>
+				<page>0035-0039</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩೫. ಬಡವರ ಭಾಗ್ಯ</title>
+				<feature/>
+				<page>0039-0041</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩೬. ಭೂತೋಚ್ಛಾಟನೆ</title>
+				<feature/>
+				<page>0042-0044</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩೭. ಶಾಂತಿ ಸಂದೇಶ</title>
+				<feature/>
+				<page>0044-0047</page>
+				<allauthors/>
+			</entry>
+		</part>
 		<part pnum="03" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ-೬೮ : ಡಾನ್ ಕ್ವಿಕ್ಸೋಟನ ಸಾಹಸ ಕಾರ್ಯಗಳು">
 			<entry>
 				<title>ಮೊದಲ ಮಾತು</title>
@@ -1957,6 +3412,62 @@
 				<allauthors/>
 			</entry>
 		</part>
+		<part pnum="11" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ-೭೬ : ಪರೋಪಕಾರಿ">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0000c-0000d</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪೀಠಿಕೆ</title>
+				<feature/>
+				<page>0000e-0000f</page>
+				<allauthors>
+				<author>ಶರ್ಮ ತಿ. ತಾ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature/>
+				<page>0000g-0000g</page>
+				<allauthors>
+				<author>ಸಂಪಾದಕಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೧</title>
+				<feature>ಪರೋಪಕಾರಿ</feature>
+				<page>0001-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೨</title>
+				<feature>ಪರೋಪಕಾರಿ</feature>
+				<page>0006-0010</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೩</title>
+				<feature>ಪರೋಪಕಾರಿ</feature>
+				<page>0010-0013</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೪</title>
+				<feature>ಪರೋಪಕಾರಿ</feature>
+				<page>0014-0016</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೫</title>
+				<feature>ಪರೋಪಕಾರಿ</feature>
+				<page>0016-0020</page>
+				<allauthors/>
+			</entry>
+		</part>
 	</volume>
 	<volume vnum="013">
 		<part pnum="01" month="" year="" info="ಕಂದ ಕಾವ್ಯಮಾಲೆ-೭೭ : ಹೊಯ್ಸಳರು">
@@ -2206,6 +3717,84 @@
 				<title>೨೭. ಅರ್ಜುನನು ದಿವ್ಯಾಸ್ತ್ರಗಳನ್ನು ಗಳಿಸಿದ್ದು</title>
 				<feature></feature>
 				<page>0122-0127</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ-೮೫ : ಬೆಳ್ಳಿದೀಪ">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0001-0002</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature/>
+				<page>0003-0003</page>
+				<allauthors>
+				<author>ಸುಶೀಲಾಬಾಯಿ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೧</title>
+				<feature/>
+				<page>0007-0038</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="" year="" info="ಕಂದಕಾವ್ಯಮಾಲೆ-೮೬ : ಸೊಹ್ರಾಬ್ - ರುಸ್ತುಂ">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0001-0002</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪೀಠಿಕೆ</title>
+				<feature/>
+				<page>0005-0005</page>
+				<allauthors>
+				<author>ಸಂಪಾದಕಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೧</title>
+				<feature/>
+				<page>0007-0015</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೨</title>
+				<feature/>
+				<page>0016-0019</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೩</title>
+				<feature/>
+				<page>0020-0025</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೪</title>
+				<feature/>
+				<page>0026-0030</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೫</title>
+				<feature/>
+				<page>0031-0033</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದೃಶ್ಯ ೬</title>
+				<feature/>
+				<page>0034-0046</page>
 				<allauthors/>
 			</entry>
 		</part>
@@ -3227,5 +4816,111 @@
 				<allauthors/>
 			</entry>		
 		</part>
+		<part pnum="07" month="07" year="1964" info="ಕಂದಕಾವ್ಯಮಾಲೆ-೧೦೮ : ಶ್ರೀ ಕೃಷ್ಣ : ಭಾಗ-೧">
+			<entry>
+				<title>ಮೊದಲ ಮಾತು</title>
+				<feature/>
+				<page>0000c-0000d</page>
+				<allauthors>
+				<author>ಶಾಮರಾಯ ತ. ಸು.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature/>
+				<page>0000e-0000e</page>
+				<allauthors>
+				<author>ಸುಶೀಲಾಬಾಯಿ ಎನ್.</author>
+				</allauthors>
+				</entry>
+			<entry>
+				<title>೧. ಹಿನ್ನಲೆ</title>
+				<feature>ಜನನ ಮತ್ತು ಶೈಶವ</feature>
+				<page>0001-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೨. ಕೃಷ್ಣನ ಜನನ</title>
+				<feature/>
+				<page>0005-0018</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೩. ಕಂಸನ ಕಾಟ</title>
+				<feature/>
+				<page>0018-0023</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>೪. ಕೃಷ್ಣನ ಮಾಯೆ</title>
+				<feature/>
+				<page>0023-0027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature/>
+				<page>0029-0030</page>
+				<allauthors>
+				<author>ಸುಶೀಲಾಬಾಯಿ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಾಲ್ಯದ ದಿನಗಳು</title>
+				<feature>ಶ್ರೀಕೃಷ್ಣ ಭಾಗ-೨</feature>
+				<page>0031-0046</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಶಿವಯಜ್ಞಕ್ಕೆ ಆಹ್ವಾನ</title>
+				<feature/>
+				<page>0046-0058</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಮಲ್ಲಯುದ್ಧ</title>
+				<feature/>
+				<page>0058-0064</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಸಂಪಾದಕೀಯ</title>
+				<feature/>
+				<page>0065-0066</page>
+				<allauthors>
+				<author>ಸುಶೀಲಾಬಾಯಿ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರುಕ್ಮಿಣೇಶ ವಿಜಯ ಬ್ರಹ್ಮಚರ್ಯ</title>
+				<feature>ಶ್ರೀಕೃಷ್ಣ ಭಾಗ ೩</feature>
+				<page>0067-0078</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಉದ್ಧವನ ಸಂದೇಶ</title>
+				<feature/>
+				<page>0078-0082</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ದ್ವಾರಕಾಪುರ ನಿರ್ಮಾಣ</title>
+				<feature/>
+				<page>0083-0029</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಬಲರಾಮನ ವಿವಾಹ</title>
+				<feature/>
+				<page>0091-0092</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ಕೃಷ್ಣ ರುಕ್ಮಿಣಿಯರ ವಿವಾಹ</title>
+				<feature/>
+				<page>0092-0100</page>
+				<allauthors/>
+			</entry>
+			</part>
 	</volume>
 </journal>
