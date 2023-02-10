@@ -161,7 +161,7 @@
 						<li><a href="../../articles.php?journalid=012" class="button button-outline">ಲೇಖನ</a></li>
 						<li><a href="../../authors.php?journalid=012" class="button button-outline">ಲೇಖಕ</a></li>
 						<li><a href="../../search.php?journalid=012" class="button button-outline">ಹುಡುಕು</a></li>
-						<li><a href="https://www.vanithasadana.org/" class="button button-outline" target="_blank">ವನಿತ ಸದನ</a></li>
+						<li><a href="https://www.vanithasadana.org/" class="button button-outline" target="_blank">ವನಿತಾ ಸದನ</a></li>
 					</ul>
 		</div>
 	</div>
